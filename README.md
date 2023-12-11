@@ -5,8 +5,7 @@
 
 
 
-*Bienvenue dans notre projet sur la lutte contre les images trompeuses grâce à la détection des deepfakes et desshallowfakes. Dans ce référentiel, nous partageons notre parcours, nos stratégies et nos découvertes.
-Notebooks Overview. 
+Welcome to our project on combating deceptive imagery through deepfake and shallowfake detection. In this repository, we share our journey, strategies, and findings in two comprehensive notebooks.
 
 
 1. Study Reproduction:
