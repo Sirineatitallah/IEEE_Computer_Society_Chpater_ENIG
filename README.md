@@ -1,6 +1,6 @@
 # IEEE_Computer_Society_Chpater_ENIG
 
-                                                                          --Deceptive Image Detection: Project Overview--
+                                                                    <p>      --Deceptive Image Detection: Project Overview--<p/>
 
 
 
@@ -20,5 +20,6 @@ Explore the meticulous reproduction of a groundbreaking research study. Validate
 
 3.Our Vision and Continued Pursuit:
 
-     At the heart of our project lies a vision for precise and effective deceptive image detection. While we've made significant strides, nearing results that showcase promise, our commitment to excellence doesn't 
+ <p></p>    At the heart of our project lies a vision for precise and effective deceptive image detection. While we've made significant strides, nearing results that showcase promise, our commitment to excellence doesn't 
     stop here. We're dedicated to pushing the boundaries of detection methodologies and advancing our research until we achieve the ultimate goal.
+</p>
